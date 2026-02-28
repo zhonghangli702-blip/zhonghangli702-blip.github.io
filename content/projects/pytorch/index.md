@@ -1,5 +1,5 @@
 ---
-title: PyTorch
+title: Art and Literature
 date: 2023-10-26
 links:
   - type: site
@@ -10,6 +10,6 @@ tags:
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+I have long been interested in historical reading, especially Chinese ancient history. And in artistic expression, I play the Guqin and occasionally write poetry.
 
 <!--more-->
