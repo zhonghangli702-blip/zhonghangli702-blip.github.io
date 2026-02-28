@@ -1,11 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Beyond connectivity: How digital economy shapes regional innovation?"
 authors:
-- me
-date: "2019-04-07T00:00:00Z"
+- He Xu
+- Dong Li
+- Zhong-hang Li
+- Tian-tian Lou
+date: "2025-05-31T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-12-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,13 +19,12 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper empirically examines how the development of the digital economy influences regional innovation capacity, utilizing panel data from 30 Chinese provinces over the period 2011–2023. Employing a dual fixed-effects model complemented by robust endogeneity corrections, including instrumental variable analysis, propensity score matching, and the Heckman selection approach, the study identifies a significant positive impact of digital economy development on regional innovation capacity. Additionally, mediation analysis indicates that R&D intensity partially mediates this relationship, highlighting intensified R&D activities as a key transmission mechanism. Furthermore, financial development and fiscal support significantly moderate the digital economy's effects, suggesting regions with deeper financial markets and proactive fiscal policies achieve greater innovation outcomes from digitalization. These findings provide crucial insights for policymakers aiming to enhance regional innovation capabilities through integrated strategies involving digital infrastructure investment, strengthened financial institutions, and supportive fiscal interventions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Digital Economy
 
 featured: true
 
