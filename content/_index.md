@@ -50,19 +50,19 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: publications
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publications
-        featured_only: true
+        publication_type: "2"
     design:
       view: article-grid
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: 
       text: ''
       filters:
         folders:
