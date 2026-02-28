@@ -20,9 +20,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'INTRODUCTION'
+        education: 'EDUCATION'
+        interests: 'RESEARCH INTERESTS'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
