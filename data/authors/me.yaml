@@ -70,19 +70,38 @@ education:
 experience:
   - role: Research Assistant
     org: Zhongnan University of Economics and Law
-    start: 2020-11-15
+    start: 2023-11-15
+    end: 2024-01-10
     summary: |
       Collected domestic and foreign academic literature, policy documents and other materials to assist in the writing of research reports;Studied and summarised relevant literature and industry reports, extracted filtered data, and conducted data analysis and robustness tests using Stata;Prepared research report PPTs, co-ordinated and organised seminars, undertook and implemented other research support tasks.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Project Participant
+    org: Northwest A&F University
+    start: 2021-03-15
+    end: 2022-06-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      First, Designed the survey and conducted on-site interviews, standardised the dataset to ensure data accuracy. Second, Sorted out academic and policy literature and integrated the materials to provide support for the project’s research framework-in "Excessive Debt in Rural Households of Shaanxi: Economic Characteristics and Resolution Mechanisms"
+  - role: Project Leader
+    org: Northwest A&F University
+    start: 2021-08-10
+    end: 2021-10-01
+    summary: |
+      First, Designed the investigation plan and conducted on-site interviews, cleaned up and standardised the data set to ensure the accuracy of the information. Second, Integrated academic and policy literature materials, and extracted key contents to provide support for the research framework-"An Empirical Study on Risk Perception, Insurance Awareness, and Risk-Bearing Capacity of Farmers"
+  - role: Financial Adviser Intern
+    org: Industrial Securities (Wuhan)
+    start: 2021-07-01
+    end: 2021-08-01
+    summary: |
+      1.Carried out customer acquisition and relationship maintenance work, and provided professional investment consulting services to customers. 2.Developed personalised financial planning schemes and promoted related business of financial product sales. 3.Assisted the consulting team in identifying over 20 potential clients and drove a 10% increase in the team’s sales performance
+  - role: Intern
+    org: Huangchuan Branch of China Construction Bank
+    start: 2020-05-01
+    end: 2021-07-01
+    summary: |
+      1.Processed and analysed financial data, drafted internal documents and correspondence, and ensured the accuracy and clarity of the documents. 2.Assisted in organising working meetings, and coordinated cross-departmental administrative affairs. 3.Helped enhance departmental efficiency, facilitated timely communication within the team, and promoted decision-making and project execution.
 
 skills:
   - name: Technical Skills
