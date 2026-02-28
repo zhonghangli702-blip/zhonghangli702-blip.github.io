@@ -1,12 +1,11 @@
 ---
-title: "An example journal article"
+title: "Artificial Intelligence and Corporate Outward Foreign Direct Investment"
 authors:
+- Fan Si
 - me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- et al.
+
+date: "2023-12-01"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,10 +19,9 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper uses the data of A-share listed companies in China from 2010 to 2023 and measures the adoption of AI through the analysis of annual report texts. It is found that AI is strongly positively correlated with OFDI. AI promotes OFDI through three intermediary channels, amplifies the impact of regional business environments, etc., and is more significant for large enterprises and technology-intensive industries. The research contributes to relevant literature.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -31,25 +29,9 @@ featured: false
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    arxiv:
 
 links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
