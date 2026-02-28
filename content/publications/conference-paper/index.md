@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of the Digital Economy on Carbon Emissions: Evidence from Machine Learning, Graph Neural Networks, and the EKC Hypothesis'
+title: 'The Impact of the Digital Economy on Carbon Emissions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
