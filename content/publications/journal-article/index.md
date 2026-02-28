@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Review of Financial Analysis*Minor Revision"
+publication: "*International Review of Financial Analysis, Minor Revision"
 publication_short: ""
 
 abstract: This paper uses the data of A-share listed companies in China from 2010 to 2023 and measures the adoption of AI through the analysis of annual report texts. It is found that AI is strongly positively correlated with OFDI. AI promotes OFDI through three intermediary channels, amplifies the impact of regional business environments, etc., and is more significant for large enterprises and technology-intensive industries. The research contributes to relevant literature.
