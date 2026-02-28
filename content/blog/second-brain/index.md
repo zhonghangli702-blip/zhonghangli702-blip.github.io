@@ -1,12 +1,11 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: 🧠 Finish the first step of my future research
+summary:  Naturam Primum Cognoscere Rerum.
 date: 2023-10-26
 authors:
   - me
 tags:
-  - Second Brain
-  - Markdown
+  - Day 1
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 cover:
