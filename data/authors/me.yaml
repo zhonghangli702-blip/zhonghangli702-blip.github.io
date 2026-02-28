@@ -107,7 +107,7 @@ languages:
     level: 5
     label: Native
   - name: English
-    level: 3
+    level: 3.5
     label: Fluent
   - name: Japanese
     level: 1
