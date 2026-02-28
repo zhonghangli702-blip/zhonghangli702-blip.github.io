@@ -1,5 +1,5 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
+title: "Learning Material Storage"
 date: '2017-01-01T00:00:00Z'
 
 event_name: HugoBlox Showcase
@@ -13,9 +13,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
+summary: Textbook note or other literatures
 abstract: |
-  Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
 
 # Talk start and end times.
 event_start: '2030-06-01T13:00:00Z'
