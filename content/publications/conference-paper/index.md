@@ -33,9 +33,6 @@ summary: Machine learning and graph neural network evidence on digital economy a
 tags:
   - Machine learning
 
-# Display this page in the Featured widget?
-featured: true
-
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
