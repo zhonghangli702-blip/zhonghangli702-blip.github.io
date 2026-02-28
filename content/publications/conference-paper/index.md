@@ -8,9 +8,6 @@ authors:
   - me
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2025-08-11T00:00:00Z'
 
@@ -46,14 +43,6 @@ hugoblox:
 links:
   - type: pdf
     url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/kit
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
