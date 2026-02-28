@@ -14,7 +14,7 @@ address:
   country: United States
 
 summary: Textbook note or other literatures
-abstract: |
+abstract: NOTHING
 
 # Talk start and end times.
 event_start: '2030-06-01T13:00:00Z'
