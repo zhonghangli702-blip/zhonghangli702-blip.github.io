@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*International Review of Financial Analysis*Minor Revision"
 publication_short: ""
 
 abstract: This paper uses the data of A-share listed companies in China from 2010 to 2023 and measures the adoption of AI through the analysis of annual report texts. It is found that AI is strongly positively correlated with OFDI. AI promotes OFDI through three intermediary channels, amplifies the impact of regional business environments, etc., and is more significant for large enterprises and technology-intensive industries. The research contributes to relevant literature.
@@ -54,11 +54,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
