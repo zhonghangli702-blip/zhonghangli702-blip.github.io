@@ -30,27 +30,9 @@ featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    doi: 10.1016/j.iref.2025.104821
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/kit
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
