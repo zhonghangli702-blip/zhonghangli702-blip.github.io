@@ -50,7 +50,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: publications
+    id: papers
     content:
       title: Publications
       filters:
@@ -62,12 +62,12 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: 
+      title: Working Papers
       text: ''
       filters:
         folders:
           - publications
-        exclude_featured: false
+        publication_type: "3"
     design:
       view: citation
   - block: collection
