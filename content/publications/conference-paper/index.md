@@ -18,10 +18,12 @@ publishDate: '2025-08-11T00:00:00Z'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["2"]
+# featured
+featured: true
 
 # Publication name and optional abbreviated publication name.
-publication: In *Research in World Economy*
-publication_short: In *RWE*
+publication: *Research in World Economy*
+publication_short: *RWE*
 
 abstract: This study uses panel data from 30 provinces in China from 2007 to 2023, combined with machine learning and GNN, to investigate the spatial dynamics of carbon emissions, aiming to assess the impact path of the digital economy on carbon intensity. Empirical evidence shows that the digital economy significantly reduces carbon intensity with heterogeneity. GNN predictions are superior to traditional methods. Carbon intensity has time inertia and negative spatial spillover. The spatial diffusion capacity of the digital economy varies by region. The research provides support for emission reduction policies.
 
