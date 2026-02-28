@@ -56,7 +56,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: "2"
+        featured_only: true
     design:
       view: article-grid
       columns: 2
@@ -67,7 +67,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: "3"
+        exclude_featured: true
     design:
       view: citation
   - block: collection
