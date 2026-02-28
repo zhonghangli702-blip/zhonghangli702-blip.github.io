@@ -68,11 +68,11 @@ education:
     end: 2022-07-01
  
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Assistant
+    org: Zhongnan University of Economics and Law
+    start: 2020-11-15
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Collected domestic and foreign academic literature, policy documents and other materials to assist in the writing of research reports;Studied and summarised relevant literature and industry reports, extracted filtered data, and conducted data analysis and robustness tests using Stata;Prepared research report PPTs, co-ordinated and organised seminars, undertook and implemented other research support tasks.
     button:
       text: View portfolio
       url: /
