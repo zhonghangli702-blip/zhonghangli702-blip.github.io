@@ -1,39 +1,38 @@
 ---
-title: 'An example conference paper'
+title: 'The Impact of the Digital Economy on Carbon Emissions: Evidence from Machine Learning, Graph Neural Networks, and the EKC Hypothesis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - me
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-08-11T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-08-11T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *HugoBlox Kit Conference*
-publication_short: In *ICW*
+publication: In *Research in World Economy*
+publication_short: In *RWE*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study uses panel data from 30 provinces in China from 2007 to 2023, combined with machine learning and GNN, to investigate the spatial dynamics of carbon emissions, aiming to assess the impact path of the digital economy on carbon intensity. Empirical evidence shows that the digital economy significantly reduces carbon intensity with heterogeneity. GNN predictions are superior to traditional methods. Carbon intensity has time inertia and negative spatial spillover. The spatial diffusion capacity of the digital economy varies by region. The research provides support for emission reduction policies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Machine learning and graph neural network evidence on digital economy and carbon emissions.
 
 tags:
-  - Large Language Models
+  - Machine learning
 
 # Display this page in the Featured widget?
 featured: true
@@ -41,7 +40,7 @@ featured: true
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
+    doi: 10.5430/rwe.v16n1p1
 
 # Custom links
 links:
@@ -55,8 +54,6 @@ links:
     url: https://www.slideshare.net/
   - type: source
     url: https://github.com/HugoBlox/kit
-  - type: video
-    url: https://youtube.com
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -70,9 +67,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
-
+projects: []
+  
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -80,11 +76,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
