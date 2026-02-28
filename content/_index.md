@@ -44,7 +44,7 @@ sections:
       text: |-
         My research focuses on the political economy of development and income distribution, with particular interest in how macroeconomic institutions and policy regimes shape long-run inequality dynamics in developing economies. I am broadly interested in structuralist and heterodox approaches to economic development, examining the interaction between external constraints, financial conditions, and domestic distributional outcomes.
 
-    My work seeks to connect theoretical insights with empirical analysis, combining traditional econometric approaches with emerging machine learning methods. I welcome opportunities for academic collaboration and interdisciplinary research.
+        My work seeks to connect theoretical insights with empirical analysis, combining traditional econometric approaches with emerging machine learning methods. I welcome opportunities for academic collaboration and interdisciplinary research.
 
         Please reach out to collaborate 😃
     design:
