@@ -71,7 +71,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id:notes
+    id: notes
     content:
       title: Research Notes
       filters:
