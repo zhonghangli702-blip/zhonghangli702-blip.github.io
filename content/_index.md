@@ -71,9 +71,9 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id:notes
     content:
-      title: Recent & Upcoming Talks
+      title: Research Notes
       filters:
         folders:
           - events
